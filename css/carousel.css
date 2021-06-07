@@ -37,7 +37,7 @@ a {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 100% !important;
   height: 32rem;
   opacity: 0.8;
 }
